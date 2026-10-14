@@ -12,8 +12,9 @@
 ```bash
 pip install python-can cantools
 python test_bms_final.py
+
 ## 测试报告截图
-![测试报告]
-<img width="1468" height="935" alt="screenshot-1" src="https://github.com/user-attachments/assets/eea0c0be-2fde-4941-bbee-9990e6d46bd0" />
-<img width="1197" height="1350" alt="screenshot-2" src="https://github.com/user-attachments/assets/ec2e20a7-b262-4eb1-871b-d5ddd9db3e0d" />
+![测试报告1](screenshot-1.png)
+![测试报告2](screenshot-2.png)
+
 
