@@ -9,12 +9,14 @@
 - 自动判定PASS/FAIL，输出测试报告
 
 ## 运行方法
+
 ```bash
 pip install python-can cantools
 python test_bms_final.py
+```
 
 ## 测试报告截图
+
 ![测试报告1](screenshot-1.png)
+
 ![测试报告2](screenshot-2.png)
-
-
